@@ -38,7 +38,7 @@ superManager <-
   )
 
 # guardarlo en csv
-write.csv(superManager, "data/supermanager_juagadores_2026.csv", row.names = F
+write.csv(superManager, "data/supermanager_juagadores_2026.csv", row.names = F)
 
 #funcion estadisticas por jugador
 players_superM <- function(id) {
@@ -80,4 +80,4 @@ players_superM_Df <- map_df(superManager$idPlayer, players_superM)
 
 
 # guardarlo en csv
-write.csv(players_superM_Df,"data/supermanager_juagadores_stats_2026.csv", row.names = F
+write.csv(players_superM_Df,"data/supermanager_juagadores_stats_2026.csv", row.names = F)
