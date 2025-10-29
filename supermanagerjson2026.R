@@ -10,26 +10,18 @@ headers <- c(
   "Accept" = "application/json"
 )
 
-
-# Headers necesarios
-headers <- c(
-  "Accept" = "application/json, text/plain, */*",
-  "Accept-Encoding" = "gzip, deflate, br, zstd",
-  "Accept-Language" = "es-ES,es;q=0.9,en;q=0.8",
-  "Authorization" = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZWI4ZWMyNjQzN2Q0MGEwODI5NDVmYjJiYTgzMmIwYyIsInN1YiI6IjE1MDkwIiwic2NvcGUiOlsiYmFzaWMiXSwiZXhwIjoxNzYxODE2NTQxfQ.fZwk-GyWXoaQnW_5w72JGpwOXIEztB1snXAzq7gmYdE",
-  "Cache-Control" = "no-cache",
-  "Pragma" = "no-cache",
-  "Referer" = "https://supermanager.acb.com/market?position=1",
-  "Sec-Ch-Ua" = "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"",
-  "Sec-Ch-Ua-Mobile" = "?0",
-  "Sec-Ch-Ua-Platform" = "\"macOS\"",
-  "Sec-Fetch-Dest" = "empty",
-  "Sec-Fetch-Mode" = "cors",
-  "Sec-Fetch-Site" = "same-origin",
-  "User-Agent" = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-)
-
-# URL de la API
+super_manager <- fromJSON(txt = content(
+  GET(
+    url = "https://supermanager.acb.com/api/basic/userteam/standing/1?_page=1&category=1&type=1&community=false",
+    add_headers(.headers = headers)
+  ),
+  "text",
+  encoding = "UTF-8"
+)) %>%
+  tibble() %>%
+  unnest(cols = c(all)) %>%
+  select(-user) %>%
+  mutate(userAvatar = paste0("https://supermanager.acb.com/files/", userAvatar))# URL de la API
 url <- "https://supermanager.acb.com/api/basic/player?_filters=%5B%7B%22field%22:%22competition.idCompetition%22,%22value%22:1,%22operator%22:%22=%22,%22condition%22:%22AND%22%7D,%7B%22field%22:%22edition.isActive%22,%22value%22:true,%22operator%22:%22=%22,%22condition%22:%22AND%22%7D%5D&_page=1&_perPage=30&_sort=%5B%7B%22field%22:%22price%22,%22type%22:%22DESC%22%7D%5D"
 
 # Hacer la solicitud GET
