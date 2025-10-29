@@ -62,7 +62,7 @@ players_superM <- function(id) {
       number = superManager_player$number,
       idPlayer = superManager_player$idPlayer 
     ) %>%
-    filter(!is.na(idJourney)) %>% 
+    filter(numberJourney != max(numberJourney)) %>% 
     select(idPlayer, shortName, nick, license, idTeam, nameTeam, playerPrice, initialPrice, price, everything()) %>%
     select(where(~ !all(is.na(.x))))
  
