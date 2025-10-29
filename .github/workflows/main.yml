@@ -15,6 +15,7 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       SM_TOKEN: ${{ secrets.SM_TOKEN }}
       URL_SUPERMANAGER: ${{ secrets.URL_SUPERMANAGER }}
+      URL_PLAYERS: ${{ secrets.URL_PLAYERS }
     steps:
       - uses: actions/checkout@v3  
       
