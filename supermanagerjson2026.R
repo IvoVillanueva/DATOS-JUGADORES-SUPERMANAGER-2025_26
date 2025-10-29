@@ -13,18 +13,29 @@ headers <- c(
   "Authorization" = Sys.getenv("SM_TOKEN"),
   "Accept" = "application/json"
 )
-# sacar datos de jugadores
-super_manager <- fromJSON(txt = content(
-  GET(
-    url = Sys.getenv("URL_SUPERMANAGER"),
-    add_headers(.headers = headers),
+
+# Cargar datos desde la API con cabeceras personalizadas
+superManager <- 
+  fromJSON(
+    content(
+      GET(
+        url = Sys.getenv("URL_SUPERMANAGER"),
+        add_headers(.headers = headers)
+      ),
+      "text",
+      encoding = "UTF-8"
+    ),
     flatten = TRUE
-  ),
-  "text",
-  encoding = "UTF-8"
-)) %>%
+  ) %>%
+  # Expandir columnas anidadas de estadísticas de jugador
   unnest_wider(playerStats) %>%
-  mutate(imageTeamNegative = paste0("https://supermanager.acb.com/files/logo/", imageTeamNegative))
+  # Crear la URL completa del logo del equipo
+  mutate(
+    imageTeamNegative = paste0(
+      "https://supermanager.acb.com/files/logo/",
+      imageTeamNegative
+    )
+  )
 
 # guardarlo en csv
 write.csv(superManager, "data/supermanager_juagadores_2026.csv")
