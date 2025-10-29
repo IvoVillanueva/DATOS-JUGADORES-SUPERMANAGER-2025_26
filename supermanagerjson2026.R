@@ -19,7 +19,7 @@ superManager <-
   fromJSON(
     content(
       GET(
-        url = "https://supermanager.acb.com/api/basic/player?_filters=%5B%7B%22field%22:%22competition.idCompetition%22,%22value%22:1,%22operator%22:%22=%22,%22condition%22:%22AND%22%7D,%7B%22field%22:%22edition.isActive%22,%22value%22:true,%22operator%22:%22=%22,%22condition%22:%22AND%22%7D%5D&_page=1&_perPage=30&_sort=%5B%7B%22field%22:%22price%22,%22type%22:%22DESC%22%7D%5D",
+        url = Sys.getenv("URL_SUPERMANAGER"),
         add_headers(.headers = headers)
       ),
       "text",
