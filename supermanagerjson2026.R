@@ -65,7 +65,7 @@ players_superM <- function(id) {
       nick = superManager_player$nick,
       idTeam = superManager_player$idTeam,
       number = superManager_player$number,
-      idPlayer = superManager_player$idPlayer
+      idPlayer = superManager_player$idPlayer 
     ) %>%
     filter(!is.na(idJourney)) %>% 
     select(idPlayer, shortName, nick, license, idTeam, nameTeam, playerPrice, initialPrice, price, everything()) %>%
