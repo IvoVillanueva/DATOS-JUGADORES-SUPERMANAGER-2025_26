@@ -48,7 +48,7 @@ write.csv(superManager, "data/supermanager_juagadores_2026.csv")
 
 players_superM <- function(id) {
   
-  superManager_player <- fromJSON(content(GET(paste0("https://supermanager.acb.com/api/basic/playerstats/1/", id),
+  superManager_player <- fromJSON(content(GET(paste0(Sys.getenv("URL_PLAYERS"), id),
                                               add_headers(.headers = headers)),
                                           "text", encoding = "UTF-8"))
   
