@@ -41,7 +41,41 @@ superManager <-
 write.csv(superManager, "data/supermanager_juagadores_2026.csv")
 
 
+#######################################################################################################################################################
+################################ Función para las estadisticas de los jugadoress ######################################################################
+#######################################################################################################################################################
 
+
+players_superM <- function(id) {
+  
+  superManager_player <- fromJSON(content(GET(paste0("https://supermanager.acb.com/api/basic/playerstats/1/", id),
+                                              add_headers(.headers = headers)),
+                                          "text", encoding = "UTF-8"))
+  
+  playerDF <- superManager_player %>%
+    pluck("playerStats") %>%
+    tibble() %>%
+    mutate(
+      shortName = superManager_player$shortName,
+      nameTeam = superManager_player$nameTeam,
+      license = superManager_player$license,
+      photo = superManager_player$photo2,
+      initialPrice = superManager_player$initialPrice,
+      price = superManager_player$price,
+      nick = superManager_player$nick,
+      idTeam = superManager_player$idTeam,
+      number = superManager_player$number,
+      idPlayer = superManager_player$idPlayer
+    ) %>%
+    filter(!is.na(idJourney)) %>% 
+    select(idPlayer, shortName, nick, license, idTeam, nameTeam, playerPrice, initialPrice, price, everything()) %>%
+    select(where(~ !all(is.na(.x))))
+ 
+  return(playerDF)
+}
+
+# Map the function over the list of ids
+players_superM_Df <- map_df(superManager$id, players_superM)
 
 
 
