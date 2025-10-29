@@ -73,6 +73,6 @@ players_superM <- function(id) {
 players_superM_Df <- map_df(superManager$id, players_superM)
 
 
-write.csv(players_superM_Df,"data/supermanager_juagadores_stats_2026.csv"))
+write.csv(players_superM_Df,"data/supermanager_juagadores_stats_2026.csv")
 
 
