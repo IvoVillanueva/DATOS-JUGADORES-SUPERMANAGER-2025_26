@@ -1,6 +1,6 @@
 
 
-name: Clasificación General SuperManager 2026
+name: Datos jugadores SuperManager 2026
 
 on:
   workflow_dispatch:
@@ -8,8 +8,8 @@ on:
      - cron: '0 3 * * 1'
 
 jobs:
-  Get-TRADITIONALSTATS-EUROLEAGUE:
-    name: Extraer estadisticas tradicionales Eurolegue
+  Get-DATOS-JUGADORES-SUPERMANAGER:
+    name: Extraer estadisticas jugadores Supermanager
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -36,18 +36,18 @@ jobs:
       - name: Install CRAN packages
         uses: r-lib/actions/setup-r-dependencies@v2
         with: 
-          packages: tidyverse, httr, jsonlite, gt, gtExtras, glue, lubridate
+          packages: tidyverse, httr, jsonlite
           
       - name: Run R update script
-        run: Rscript ultimajornada.R
+        run: Rscript supermanagerjson2026.R
         shell: bash
 
       - name: Commit changes in data folder
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/*.png
-          git diff --cached --quiet || git commit -m "Auto-update: brokerbasket general"
+          git add data/*.csv
+          git diff --cached --quiet || git commit -m "Auto-update: supermanager jugadores"
         shell: bash
 
       - name: Push changes
