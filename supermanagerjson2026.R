@@ -70,7 +70,7 @@ players_superM <- function(id) {
 }
 
 # Map the function over the list of ids
-players_superM_Df <- map_df(superManager$id, players_superM)
+players_superM_Df <- map_df(superManager$idPlayer, players_superM)
 
 
 write.csv(players_superM_Df,"data/supermanager_juagadores_stats_2026.csv")
