@@ -38,12 +38,12 @@ superManager <-
   )
 
 # guardarlo en csv
-write.csv(superManager, "data/supermanager_juagadores_2026.csv")
+write.csv(superManager, "data/supermanager_juagadores_2026.csv", row.names = F
 
 #funcion estadisticas por jugador
 players_superM <- function(id) {
   
-  superManager_player <- fromJSON(content(GET(paste0(Sys.getenv("URL_PLAYERS"), id),
+  superManager_player <- fromJSON(content(GET(paste0("https://supermanager.acb.com/api/basic/playerstats/1/", id),
                                               add_headers(.headers = headers)),
                                           "text", encoding = "UTF-8"))
   
@@ -63,9 +63,15 @@ players_superM <- function(id) {
       idPlayer = superManager_player$idPlayer 
     ) %>%
     filter(numberJourney != max(numberJourney)) %>% 
-    select(idPlayer, shortName, nick, license, idTeam, nameTeam, playerPrice, initialPrice, price, everything()) %>%
+  {
+    if ("playerPrice" %in% colnames(.)) {
+      select(., idPlayer, shortName, nick, license, idTeam, nameTeam, playerPrice, initialPrice, price, everything())
+    } else {
+      select(., idPlayer, shortName, nick, license, idTeam, nameTeam, initialPrice, price, everything())
+    }
+  }%>%
     select(where(~ !all(is.na(.x))))
- 
+  
   return(playerDF)
 }
 
@@ -73,6 +79,5 @@ players_superM <- function(id) {
 players_superM_Df <- map_df(superManager$idPlayer, players_superM)
 
 
-write.csv(players_superM_Df,"data/supermanager_juagadores_stats_2026.csv")
-
-
+# guardarlo en csv
+write.csv(players_superM_Df,"data/supermanager_juagadores_stats_2026.csv", row.names = F
