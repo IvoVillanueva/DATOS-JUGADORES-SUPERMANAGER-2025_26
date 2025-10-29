@@ -2,10 +2,13 @@
 library(jsonlite)
 library(tidyverse)
 library(httr)
-library(jsonlite)
-library(dplyr)
 
 
+# cabeceras
+headers <- c(
+  "Authorization" = Sys.getenv("SM_TOKEN"),
+  "Accept" = "application/json"
+)
 
 
 # Headers necesarios
