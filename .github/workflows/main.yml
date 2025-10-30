@@ -5,7 +5,8 @@ name: Datos jugadores SuperManager 2026
 on:
   workflow_dispatch:
   schedule:
-     - cron: '0 3 * * 1'
+     - cron: '30 2 * * 1'   # Lunes 2:30 AM UTC (ejecución real)
+     - cron: '30 2 * * 5'   # Viernes 2:30 AM UTC (test de token)
 
 jobs:
   Get-DATOS-JUGADORES-SUPERMANAGER:
