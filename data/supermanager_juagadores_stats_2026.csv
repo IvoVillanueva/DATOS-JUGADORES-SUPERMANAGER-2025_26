@@ -175,14 +175,6 @@
 99,"W. Falk","Falk","JFL",9,"UCAM Murcia",112412,1e+05,63869,3,3,-3,0,522,0,0,0,"0/0",0,"0/1",-1,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,"0000831675_5-6_03.jpg",13
 99,"W. Falk","Falk","JFL",9,"UCAM Murcia",132250,1e+05,63869,2,2,4,4.8,594,0,2,2,"1/1",0,"0/1",-1,"0/0",0,5,5,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,"0000831675_5-6_03.jpg",13
 99,"W. Falk","Falk","JFL",9,"UCAM Murcia",115000,1e+05,63869,1,1,2,2.4,1112,0,5,5,"2/4",-2,"0/1",-1,"1/1",0,2,2,0,0,1,1,1,-1,0,0,0,0,3,-3,1,1,"0000831675_5-6_03.jpg",13
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",NA,290000,128675,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000841343_5-6_03.jpg",17
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",NA,290000,128675,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000841343_5-6_03.jpg",17
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",128675,290000,128675,6,6,0,0,220,0,0,0,"0/0",0,"0/1",-1,"0/0",0,2,2,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,"0000841343_5-6_03.jpg",17
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",151382,290000,128675,5,5,0,0,306,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,1,1,1,1,1,-1,0,0,0,0,1,-1,0,0,"0000841343_5-6_03.jpg",17
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",NA,290000,128675,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000841343_5-6_03.jpg",17
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",178096,290000,128675,3,3,2,0,331,0,0,0,"0/0",0,"0/0",0,"0/0",0,1,1,1,1,0,0,1,-1,0,0,0,0,0,0,1,1,"0000841343_5-6_03.jpg",17
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",209525,290000,128675,2,2,2,0,501,0,3,3,"0/1",-1,"1/1",0,"0/0",0,1,1,1,1,0,0,2,-2,0,0,0,0,1,-1,1,1,"0000841343_5-6_03.jpg",17
-241,"S. García","García","JFL",1,"Recoletas Salud San Pablo Burgos",246500,290000,128675,1,1,0,0,149,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,1,1,0,0,0,0,0,0,1,-1,0,0,"0000841343_5-6_03.jpg",17
 8,"P. Almazán","Almazán","JFL",1,"Recoletas Salud San Pablo Burgos",38469,120000,38469,8,8,0,0,902,0,3,3,"1/2",-1,"0/3",-3,"1/2",-1,1,1,0,0,1,1,0,0,0,0,0,0,1,-1,1,1,"0000832807_5-6_03.jpg",8
 8,"P. Almazán","Almazán","JFL",1,"Recoletas Salud San Pablo Burgos",0,120000,38469,7,7,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000832807_5-6_03.jpg",8
 8,"P. Almazán","Almazán","JFL",1,"Recoletas Salud San Pablo Burgos",45258,120000,38469,6,6,2,0,514,0,2,2,"1/1",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000832807_5-6_03.jpg",8
@@ -199,6 +191,14 @@
 245,"Z. Hicks","Hicks","EXT",9,"UCAM Murcia",214944,350000,112202,3,3,0,0,115,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000836788_5-6_03.jpg",24
 245,"Z. Hicks","Hicks","EXT",9,"UCAM Murcia",252875,350000,112202,2,2,3,3.6,598,0,3,3,"0/0",0,"1/2",-1,"0/0",0,1,1,0,0,0,0,0,0,1,1,0,0,1,-1,0,0,"0000836788_5-6_03.jpg",24
 245,"Z. Hicks","Hicks","EXT",9,"UCAM Murcia",297500,350000,112202,1,1,-3,0,260,0,0,0,"0/0",0,"0/1",-1,"0/0",0,0,0,0,0,0,0,1,-1,0,0,0,0,1,-1,0,0,"0000836788_5-6_03.jpg",24
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
+50,"E. Happ","Happ","EUR",1,"Recoletas Salud San Pablo Burgos",NA,270000,270000,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",27
 100,"K. Gates","Gates","EXT",9,"UCAM Murcia",NA,420000,420000,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000831500_5-6_03.jpg",4
 100,"K. Gates","Gates","EXT",9,"UCAM Murcia",NA,420000,420000,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000831500_5-6_03.jpg",4
 100,"K. Gates","Gates","EXT",9,"UCAM Murcia",NA,420000,420000,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000831500_5-6_03.jpg",4
@@ -1071,14 +1071,6 @@
 248,"A. Torres","Torres","JFL",8,"Joventut Badalona",NA,1e+05,1e+05,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000829103_5-6_03.jpg",20
 248,"A. Torres","Torres","JFL",8,"Joventut Badalona",NA,1e+05,1e+05,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000829103_5-6_03.jpg",20
 248,"A. Torres","Torres","JFL",8,"Joventut Badalona",NA,1e+05,1e+05,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000829103_5-6_03.jpg",20
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",NA,380000,198362,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827331_5-6_03.jpg",47
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",0,380000,198362,7,7,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000827331_5-6_03.jpg",47
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",0,380000,198362,6,6,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000827331_5-6_03.jpg",47
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",198362,380000,198362,5,5,-3,0,269,0,2,2,"1/1",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,5,-5,0,0,"0000827331_5-6_03.jpg",47
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",233367,380000,198362,4,4,-1,0,150,0,0,0,"0/2",-2,"0/0",0,"0/0",0,2,2,0,0,0,0,0,0,0,0,1,-1,0,0,0,0,"0000827331_5-6_03.jpg",47
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",0,380000,198362,3,3,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000827331_5-6_03.jpg",47
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",274550,380000,198362,2,2,1,1.2,209,0,0,0,"0/0",0,"0/0",0,"0/0",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000827331_5-6_03.jpg",47
-68,"A. Izaw-Bolavie","Izaw-Bolavie","EUR",6,"BAXI Manresa",323000,380000,198362,1,1,-3,0,113,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,1,-1,0,0,0,0,2,-2,0,0,"0000827331_5-6_03.jpg",47
 127,"G. Shermadini","Shermadini","EUR",11,"La Laguna Tenerife",1318750,8e+05,1318750,8,8,13,15.6,1149,0,11,11,"4/6",-2,"0/0",0,"3/4",-1,1,1,0,0,0,0,2,-2,2,2,1,-1,0,0,5,5,"0000831010_5-6_03.jpg",19
 127,"G. Shermadini","Shermadini","EUR",11,"La Laguna Tenerife",1395714,8e+05,1318750,7,7,13,0,1351,0,11,11,"4/6",-2,"0/0",0,"3/3",0,6,6,0,0,0,0,2,-2,0,0,0,0,4,-4,4,4,"0000831010_5-6_03.jpg",19
 127,"G. Shermadini","Shermadini","EUR",11,"La Laguna Tenerife",1520000,8e+05,1318750,6,6,24,28.8,1452,0,14,14,"5/6",-1,"0/0",0,"4/4",0,6,6,2,2,1,1,1,-1,0,0,0,0,2,-2,5,5,"0000831010_5-6_03.jpg",19
@@ -1799,14 +1791,6 @@
 55,"D. Thompson","Thompson","EUR",5,"Valencia Basket",653976,430000,765000,3,3,22,26.4,1256,0,14,14,"3/3",0,"1/3",-2,"5/7",-2,2,2,6,6,1,1,2,-2,0,0,0,0,1,-1,6,6,"0000832932_5-6_03.jpg",13
 55,"D. Thompson","Thompson","EUR",5,"Valencia Basket",568675,430000,765000,2,2,22,26.4,1281,0,12,12,"2/3",-1,"1/4",-3,"5/5",0,2,2,8,8,3,3,0,0,1,1,0,0,4,-4,4,4,"0000832932_5-6_03.jpg",13
 55,"D. Thompson","Thompson","EUR",5,"Valencia Basket",494500,430000,765000,1,1,25,30,1075,0,16,16,"2/4",-2,"3/3",0,"3/3",0,5,5,4,4,1,1,0,0,1,1,0,0,3,-3,3,3,"0000832932_5-6_03.jpg",13
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",695000,530000,695000,8,8,11,13.2,1111,0,10,10,"1/4",-3,"2/4",-2,"2/2",0,2,2,4,4,3,3,2,-2,0,0,0,0,4,-4,3,3,"0000833510_5-6_03.jpg",6
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",7e+05,530000,695000,7,7,3,0,926,0,8,8,"3/8",-5,"0/1",-1,"2/2",0,1,1,2,2,0,0,2,-2,1,1,1,-1,3,-3,3,3,"0000833510_5-6_03.jpg",6
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",791667,530000,695000,6,6,14,0,936,0,10,10,"2/4",-2,"0/1",-1,"6/8",-2,5,5,2,2,0,0,1,-1,0,0,0,0,2,-2,5,5,"0000833510_5-6_03.jpg",6
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",767625,530000,695000,5,5,23,27.6,1535,0,14,14,"6/10",-4,"0/1",-1,"2/4",-2,8,8,4,4,4,4,1,-1,0,0,0,0,3,-3,4,4,"0000833510_5-6_03.jpg",6
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",667500,530000,695000,4,4,14,0,1368,0,13,13,"6/10",-4,"0/1",-1,"1/6",-5,11,11,2,2,1,1,4,-4,1,1,1,-1,3,-3,4,4,"0000833510_5-6_03.jpg",6
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",656667,530000,695000,3,3,6,7.2,1363,0,10,10,"5/10",-5,"0/1",-1,"0/0",0,5,5,1,1,0,0,1,-1,1,1,0,0,4,-4,0,0,"0000833510_5-6_03.jpg",6
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",700925,530000,695000,2,2,6,7.2,886,0,9,9,"3/8",-5,"1/1",0,"0/0",0,1,1,2,2,3,3,0,0,0,0,0,0,4,-4,0,0,"0000833510_5-6_03.jpg",6
-36,"H. Diallo","Diallo","COT",4,"Kosner Baskonia",609500,530000,695000,1,1,25,0,1420,0,22,22,"8/11",-3,"0/2",-2,"6/7",-1,10,10,0,0,0,0,4,-4,1,1,0,0,4,-4,6,6,"0000833510_5-6_03.jpg",6
 54,"N. Reuvers","Reuvers","EUR",5,"Valencia Basket",642397,210000,642397,8,8,6,7.2,957,0,4,4,"0/0",0,"0/2",-2,"4/8",-4,4,4,1,1,0,0,2,-2,1,1,0,0,1,-1,5,5,"0000833104_5-6_03.jpg",3
 54,"N. Reuvers","Reuvers","EUR",5,"Valencia Basket",558606,210000,642397,7,7,13,15.6,1216,0,14,14,"3/5",-2,"1/4",-3,"5/6",-1,1,1,2,2,0,0,0,0,3,3,2,-2,3,-3,4,4,"0000833104_5-6_03.jpg",3
 54,"N. Reuvers","Reuvers","EUR",5,"Valencia Basket",485744,210000,642397,6,6,15,0,1083,0,13,13,"3/5",-2,"1/1",0,"4/5",-1,2,2,2,2,0,0,0,0,0,0,0,0,2,-2,3,3,"0000833104_5-6_03.jpg",3
@@ -1823,14 +1807,14 @@
 254,"B. Key","Key","EXT",5,"Valencia Basket",NA,350000,462875,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000851946_5-6_03.jpg",7
 254,"B. Key","Key","EXT",5,"Valencia Basket",NA,350000,462875,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000851946_5-6_03.jpg",7
 254,"B. Key","Key","EXT",5,"Valencia Basket",NA,350000,462875,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000851946_5-6_03.jpg",7
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",NA,460000,637143,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000833179_5-6_03.jpg",10
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",637143,460000,637143,7,7,15,18,1406,0,13,13,"5/5",0,"1/3",-2,"0/0",0,1,1,3,3,0,0,1,-1,0,0,0,0,1,-1,2,2,"0000833179_5-6_03.jpg",10
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",593333,460000,637143,6,6,16,0,1269,0,13,13,"2/5",-3,"2/3",-1,"3/3",0,3,3,2,2,2,2,2,-2,0,0,0,0,2,-2,4,4,"0000833179_5-6_03.jpg",10
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",552000,460000,637143,5,5,4,4.8,1001,0,3,3,"1/4",-3,"0/2",-2,"1/2",-1,7,7,2,2,0,0,2,-2,0,0,1,-1,1,-1,2,2,"0000833179_5-6_03.jpg",10
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",630000,460000,637143,4,4,6,7.2,815,0,2,2,"0/1",-1,"0/1",-1,"2/2",0,1,1,4,4,0,0,0,0,1,1,0,0,1,-1,1,1,"0000833179_5-6_03.jpg",10
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",699603,460000,637143,3,3,12,14.4,1043,0,8,8,"3/6",-3,"0/1",-1,"2/3",-1,5,5,3,3,1,1,1,-1,0,0,0,0,1,-1,2,2,"0000833179_5-6_03.jpg",10
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",608350,460000,637143,2,2,12,14.4,1254,0,14,14,"0/3",-3,"4/6",-2,"2/2",0,2,2,2,2,0,0,2,-2,1,1,1,-1,1,-1,2,2,"0000833179_5-6_03.jpg",10
-47,"O. Moore","Moore","EXT",5,"Valencia Basket",529000,460000,637143,1,1,12,14.4,1333,0,9,9,"3/3",0,"0/1",-1,"3/4",-1,6,6,1,1,0,0,4,-4,0,0,0,0,0,0,2,2,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",NA,460000,637143,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",637143,460000,637143,7,7,15,18,1406,0,13,13,"5/5",0,"1/3",-2,"0/0",0,1,1,3,3,0,0,1,-1,0,0,0,0,1,-1,2,2,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",593333,460000,637143,6,6,16,0,1269,0,13,13,"2/5",-3,"2/3",-1,"3/3",0,3,3,2,2,2,2,2,-2,0,0,0,0,2,-2,4,4,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",552000,460000,637143,5,5,4,4.8,1001,0,3,3,"1/4",-3,"0/2",-2,"1/2",-1,7,7,2,2,0,0,2,-2,0,0,1,-1,1,-1,2,2,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",630000,460000,637143,4,4,6,7.2,815,0,2,2,"0/1",-1,"0/1",-1,"2/2",0,1,1,4,4,0,0,0,0,1,1,0,0,1,-1,1,1,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",699603,460000,637143,3,3,12,14.4,1043,0,8,8,"3/6",-3,"0/1",-1,"2/3",-1,5,5,3,3,1,1,1,-1,0,0,0,0,1,-1,2,2,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",608350,460000,637143,2,2,12,14.4,1254,0,14,14,"0/3",-3,"4/6",-2,"2/2",0,2,2,2,2,0,0,2,-2,1,1,1,-1,1,-1,2,2,"0000833179_5-6_03.jpg",10
+47,"O. Moore","Moore","EUR",5,"Valencia Basket",529000,460000,637143,1,1,12,14.4,1333,0,9,9,"3/3",0,"0/1",-1,"3/4",-1,6,6,1,1,0,0,4,-4,0,0,0,0,0,0,2,2,"0000833179_5-6_03.jpg",10
 51,"M. Costello","Costello","COT",5,"Valencia Basket",567500,580000,567500,8,8,5,6,872,0,3,3,"0/1",-1,"1/1",0,"0/2",-2,3,3,1,1,0,0,1,-1,2,2,0,0,1,-1,1,1,"0000833075_5-6_03.jpg",24
 51,"M. Costello","Costello","COT",5,"Valencia Basket",605714,580000,567500,7,7,15,18,1136,0,9,9,"2/3",-1,"1/1",0,"2/2",0,5,5,1,1,1,1,0,0,0,0,0,0,1,-1,1,1,"0000833075_5-6_03.jpg",24
 51,"M. Costello","Costello","COT",5,"Valencia Basket",556667,580000,567500,6,6,2,0,985,0,8,8,"1/2",-1,"2/7",-5,"0/2",-2,5,5,0,0,2,2,1,-1,0,0,1,-1,4,-4,1,1,"0000833075_5-6_03.jpg",24
@@ -1975,14 +1959,6 @@
 38,"C. Frisch","Frisch","EUR",4,"Kosner Baskonia",245650,4e+05,108996,3,3,-1,0,983,0,6,6,"0/2",-2,"2/4",-2,"0/0",0,1,1,1,1,0,0,1,-1,0,0,0,0,4,-4,0,0,"0000833485_5-6_03.jpg",25
 38,"C. Frisch","Frisch","EUR",4,"Kosner Baskonia",289000,4e+05,108996,2,2,-1,0,802,0,2,2,"1/2",-1,"0/2",-2,"0/0",0,1,1,0,0,1,1,0,0,0,0,1,-1,1,-1,0,0,"0000833485_5-6_03.jpg",25
 38,"C. Frisch","Frisch","EUR",4,"Kosner Baskonia",340000,4e+05,108996,1,1,0,0,907,0,0,0,"0/2",-2,"0/3",-3,"0/0",0,7,7,2,2,0,0,1,-1,0,0,0,0,4,-4,1,1,"0000833485_5-6_03.jpg",25
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
-50,"E. Happ","Happ","EUR",5,"Valencia Basket",NA,270000,270000,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",22
 237,"S. Joksimovic","Joksimovic","EUR",4,"Kosner Baskonia",NA,110000,67554,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000833738_5-6_03.jpg",77
 237,"S. Joksimovic","Joksimovic","EUR",4,"Kosner Baskonia",0,110000,67554,7,7,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000833738_5-6_03.jpg",77
 237,"S. Joksimovic","Joksimovic","EUR",4,"Kosner Baskonia",0,110000,67554,6,6,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000833738_5-6_03.jpg",77
