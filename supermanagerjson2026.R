@@ -42,16 +42,23 @@ write.csv(superManager, "data/supermanager_juagadores_2026.csv", row.names = F)
 
 #funcion estadisticas por jugador
 players_superM <- function(id) {
-  
-  superManager_player <- fromJSON(content(GET(paste0("https://supermanager.acb.com/api/basic/playerstats/1/", id),
-                                              add_headers(.headers = headers)),
-                                          "text", encoding = "UTF-8"))
-  
-   nick_value <- superManager_player$nick
+
+  superManager_player <- fromJSON(
+    content(
+      GET(
+        paste0("https://supermanager.acb.com/api/basic/playerstats/1/", id),
+        add_headers(.headers = headers)
+      ),
+      "text",
+      encoding = "UTF-8"
+    )
+  )
+
+  nick_value <- superManager_player$nick
   if (is.null(nick_value) || length(nick_value) == 0) {
     nick_value <- NA_character_
   }
-  
+
   playerDF <- superManager_player %>%
     pluck("playerStats") %>%
     tibble() %>%
@@ -77,6 +84,9 @@ players_superM <- function(id) {
                initialPrice, price, everything())
       }
     }
+
+  return(playerDF)
+}
 
 # Map the function over the list of ids
 players_superM_Df <- map_df(superManager$idPlayer, players_superM)
