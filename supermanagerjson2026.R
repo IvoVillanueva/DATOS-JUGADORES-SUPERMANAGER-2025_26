@@ -47,33 +47,36 @@ players_superM <- function(id) {
                                               add_headers(.headers = headers)),
                                           "text", encoding = "UTF-8"))
   
+   nick_value <- superManager_player$nick
+  if (is.null(nick_value) || length(nick_value) == 0) {
+    nick_value <- NA_character_
+  }
+  
   playerDF <- superManager_player %>%
     pluck("playerStats") %>%
     tibble() %>%
     mutate(
       shortName = superManager_player$shortName,
-      nameTeam = superManager_player$nameTeam,
-      license = superManager_player$license,
-      photo = superManager_player$photo2,
+      nameTeam  = superManager_player$nameTeam,
+      license   = superManager_player$license,
+      photo     = superManager_player$photo2,
       initialPrice = superManager_player$initialPrice,
-      price = superManager_player$price,
-      nick = superManager_player$nick,
-      idTeam = superManager_player$idTeam,
-      number = superManager_player$number,
-      idPlayer = superManager_player$idPlayer 
+      price     = superManager_player$price,
+      nick      = coalesce(rep_len(nick_value, n()), superManager_player$shortName),
+      idTeam    = superManager_player$idTeam,
+      number    = superManager_player$number,
+      idPlayer  = superManager_player$idPlayer
     ) %>%
-    filter(numberJourney != max(numberJourney)) %>% 
-  {
-    if ("playerPrice" %in% colnames(.)) {
-      select(., idPlayer, shortName, nick, license, idTeam, nameTeam, playerPrice, initialPrice, price, everything())
-    } else {
-      select(., idPlayer, shortName, nick, license, idTeam, nameTeam, initialPrice, price, everything())
+    filter(numberJourney != max(numberJourney)) %>%
+    {
+      if ("playerPrice" %in% colnames(.)) {
+        select(., idPlayer, shortName, nick, license, idTeam, nameTeam,
+               playerPrice, initialPrice, price, everything())
+      } else {
+        select(., idPlayer, shortName, nick, license, idTeam, nameTeam,
+               initialPrice, price, everything())
+      }
     }
-  }%>%
-    select(where(~ !all(is.na(.x))))
-  
-  return(playerDF)
-}
 
 # Map the function over the list of ids
 players_superM_Df <- map_df(superManager$idPlayer, players_superM)
