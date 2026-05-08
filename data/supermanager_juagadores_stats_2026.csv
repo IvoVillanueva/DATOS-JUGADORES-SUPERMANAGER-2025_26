@@ -1,5 +1,5 @@
 "idPlayer","shortName","nick","license","idTeam","nameTeam","playerPrice","initialPrice","price","teamNegative","numberJourney","team","isLocal","idJourney","pointsJourney","bonusVictory","valueTimePlayed","pointsTimePlayed","valuePoints","pointsPoints","valueT2","pointsT2","valueT3","pointsT3","valueTL","pointsTL","valueRebounds","pointsRebounds","valueAssists","pointsAssists","valueSteals","pointsSteals","valueTurnover","pointsTurnover","valueBlocks","pointsBlocks","valueBlocksAgainst","pointsBlocksAgainst","valueFoul","pointsFoul","valueFoulReceived","pointsFoulReceived","photo","number"
-217,"K. Perry","Perry","EUR",18,"Unicaja",0,520000,700357,NA,30,NA,NA,30,24,0,1423,0,20,20,"3/9",-6,"4/5",-1,"2/3",-1,3,3,5,5,3,3,2,-2,0,0,0,0,0,0,3,3,"0000826980_5-6_03.jpg",55
+217,"K. Perry","Perry","EUR",18,"Unicaja",NA,520000,700357,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826980_5-6_03.jpg",55
 217,"K. Perry","Perry","EUR",18,"Unicaja",NA,520000,700357,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826980_5-6_03.jpg",55
 217,"K. Perry","Perry","EUR",18,"Unicaja",700357,520000,700357,NA,28,NA,NA,28,7,8.4,1378,0,6,6,"1/2",-1,"1/5",-4,"1/4",-3,3,3,6,6,1,1,1,-1,0,0,0,0,3,-3,3,3,"0000826980_5-6_03.jpg",55
 217,"K. Perry","Perry","EUR",18,"Unicaja",710741,520000,700357,NA,27,NA,NA,27,10,0,1240,0,12,12,"1/2",-1,"2/6",-4,"4/4",0,0,0,1,1,0,0,0,0,0,0,0,0,5,-5,7,7,"0000826980_5-6_03.jpg",55
@@ -29,7 +29,7 @@
 217,"K. Perry","Perry","EUR",18,"Unicaja",750000,520000,700357,NA,3,NA,NA,3,15,0,1286,0,11,11,"2/4",-2,"1/6",-5,"4/5",-1,5,5,3,3,3,3,2,-2,0,0,0,0,4,-4,7,7,"0000826980_5-6_03.jpg",55
 217,"K. Perry","Perry","EUR",18,"Unicaja",687700,520000,700357,NA,2,NA,NA,2,13,15.6,1579,0,8,8,"3/4",-1,"0/5",-5,"2/2",0,3,3,4,4,2,2,0,0,0,0,0,0,2,-2,4,4,"0000826980_5-6_03.jpg",55
 217,"K. Perry","Perry","EUR",18,"Unicaja",598000,520000,700357,NA,1,NA,NA,1,12,14.4,961,0,7,7,"1/2",-1,"1/2",-1,"2/2",0,0,0,5,5,2,2,0,0,0,0,0,0,3,-3,3,3,"0000826980_5-6_03.jpg",55
-224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",0,240000,673214,NA,30,NA,NA,30,8,0,1429,0,12,12,"3/7",-4,"0/0",0,"6/14",-8,4,4,1,1,0,0,0,0,0,0,2,-2,3,-3,8,8,"0000827098_5-6_03.jpg",2
+224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",NA,240000,673214,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827098_5-6_03.jpg",2
 224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",NA,240000,673214,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827098_5-6_03.jpg",2
 224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",673214,240000,673214,NA,28,NA,NA,28,16,19.2,1063,0,13,13,"5/9",-4,"0/1",-1,"3/4",-1,4,4,0,0,1,1,0,0,2,2,0,0,2,-2,4,4,"0000827098_5-6_03.jpg",2
 224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",662593,240000,673214,NA,27,NA,NA,27,0,0,1288,0,2,2,"0/1",-1,"0/0",0,"2/4",-2,2,2,0,0,0,0,3,-3,0,0,0,0,4,-4,6,6,"0000827098_5-6_03.jpg",2
@@ -59,7 +59,7 @@
 224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",365010,240000,673214,NA,3,NA,NA,3,2,0,974,0,4,4,"1/3",-2,"0/0",0,"2/2",0,0,0,0,0,0,0,1,-1,0,0,0,0,1,-1,2,2,"0000827098_5-6_03.jpg",2
 224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",317400,240000,673214,NA,2,NA,NA,2,25,30,1395,0,16,16,"2/4",-2,"1/1",0,"9/11",-2,3,3,2,2,1,1,0,0,2,2,0,0,4,-4,9,9,"0000827098_5-6_03.jpg",2
 224,"O. Balcerowski","Balcerowski","JFL",18,"Unicaja",276000,240000,673214,NA,1,NA,NA,1,18,21.6,1229,0,17,17,"4/6",-2,"1/1",0,"6/7",-1,4,4,0,0,0,0,1,-1,0,0,1,-1,4,-4,6,6,"0000827098_5-6_03.jpg",2
-215,"C. Duarte","Duarte","COT",18,"Unicaja",0,6e+05,665000,NA,30,NA,NA,30,2,0,599,0,7,7,"2/4",-2,"1/3",-2,"0/1",-1,1,1,1,1,0,0,0,0,0,0,0,0,3,-3,1,1,"0000826780_5-6_03.jpg",27
+215,"C. Duarte","Duarte","COT",18,"Unicaja",NA,6e+05,665000,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826780_5-6_03.jpg",27
 215,"C. Duarte","Duarte","COT",18,"Unicaja",NA,6e+05,665000,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826780_5-6_03.jpg",27
 215,"C. Duarte","Duarte","COT",18,"Unicaja",665000,6e+05,665000,NA,28,NA,NA,28,-4,0,425,0,3,3,"0/2",-2,"1/3",-2,"0/0",0,1,1,1,1,0,0,2,-2,0,0,0,0,4,-4,1,1,"0000826780_5-6_03.jpg",27
 215,"C. Duarte","Duarte","COT",18,"Unicaja",699600,6e+05,665000,NA,27,NA,NA,27,9,0,1033,0,11,11,"2/6",-4,"1/3",-2,"4/4",0,1,1,4,4,1,1,3,-3,1,1,0,0,3,-3,3,3,"0000826780_5-6_03.jpg",27
@@ -89,7 +89,7 @@
 215,"C. Duarte","Duarte","COT",18,"Unicaja",368475,6e+05,665000,NA,3,NA,NA,3,-4,0,770,0,2,2,"1/3",-2,"0/4",-4,"0/0",0,1,1,1,1,1,1,1,-1,0,0,1,-1,3,-3,2,2,"0000826780_5-6_03.jpg",27
 215,"C. Duarte","Duarte","COT",18,"Unicaja",433500,6e+05,665000,NA,2,NA,NA,2,6,7.2,996,0,9,9,"4/8",-4,"0/2",-2,"1/1",0,2,2,2,2,1,1,0,0,0,0,1,-1,2,-2,1,1,"0000826780_5-6_03.jpg",27
 215,"C. Duarte","Duarte","COT",18,"Unicaja",510000,6e+05,665000,NA,1,NA,NA,1,8,9.6,1360,0,9,9,"3/5",-2,"1/3",-2,"0/0",0,3,3,6,6,1,1,4,-4,0,0,1,-1,3,-3,1,1,"0000826780_5-6_03.jpg",27
-142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",0,620000,661481,NA,30,NA,NA,30,13,15.6,2320,0,9,9,"3/4",-1,"1/3",-2,"0/0",0,6,6,3,3,1,1,2,-2,0,0,0,0,2,-2,1,1,"0000826633_5-6_03.jpg",9
+142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",NA,620000,661481,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826633_5-6_03.jpg",9
 142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",661481,620000,661481,NA,29,NA,NA,29,0,0,1579,0,2,2,"0/0",0,"0/5",-5,"2/2",0,2,2,2,2,1,1,2,-2,1,1,0,0,2,-2,1,1,"0000826633_5-6_03.jpg",9
 142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",686923,620000,661481,NA,28,NA,NA,28,33,39.6,2089,0,26,26,"2/4",-2,"6/9",-3,"4/4",0,5,5,2,2,5,5,1,-1,0,0,0,0,3,-3,4,4,"0000826633_5-6_03.jpg",9
 142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",635200,620000,661481,NA,27,NA,NA,27,21,0,2108,0,16,16,"3/4",-1,"1/5",-4,"7/8",-1,3,3,1,1,3,3,2,-2,0,0,0,0,3,-3,9,9,"0000826633_5-6_03.jpg",9
@@ -119,7 +119,7 @@
 142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",453333,620000,661481,NA,3,NA,NA,3,16,19.2,1617,0,15,15,"4/4",0,"2/4",-2,"1/1",0,1,1,1,1,3,3,1,-1,0,0,0,0,2,-2,1,1,"0000826633_5-6_03.jpg",9
 142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",447950,620000,661481,NA,2,NA,NA,2,10,0,1753,0,12,12,"3/4",-1,"0/5",-5,"6/10",-4,5,5,3,3,0,0,4,-4,0,0,0,0,2,-2,6,6,"0000826633_5-6_03.jpg",9
 142,"N. Brussino","Brussino","EUR",12,"Dreamland Gran Canaria",527000,620000,661481,NA,1,NA,NA,1,-2,0,1254,0,0,0,"0/1",-1,"0/2",-2,"0/0",0,1,1,2,2,0,0,3,-3,0,0,1,-1,1,-1,3,3,"0000826633_5-6_03.jpg",9
-314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",0,570000,641429,NA,30,NA,NA,30,20,24,1908,0,17,17,"4/9",-5,"2/5",-3,"3/3",0,8,8,2,2,1,1,1,-1,1,1,0,0,3,-3,3,3,"0000891723_5-6_03.jpg",25
+314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",NA,570000,641429,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000891723_5-6_03.jpg",25
 314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",641429,570000,641429,NA,29,NA,NA,29,1,0,1561,0,10,10,"1/4",-3,"2/5",-3,"2/2",0,0,0,0,0,0,0,3,-3,0,0,1,-1,2,-2,3,3,"0000891723_5-6_03.jpg",25
 314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",720285,570000,641429,NA,28,NA,NA,28,19,22.8,1812,0,14,14,"3/7",-4,"1/4",-3,"5/6",-1,8,8,1,1,1,1,3,-3,1,1,0,0,0,0,5,5,"0000891723_5-6_03.jpg",25
 314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",626335,570000,641429,NA,27,NA,NA,27,19,0,1867,0,24,24,"5/8",-3,"3/8",-5,"5/6",-1,4,4,2,2,1,1,4,-4,0,0,0,0,4,-4,5,5,"0000891723_5-6_03.jpg",25
@@ -149,7 +149,7 @@
 314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",NA,570000,641429,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000891723_5-6_03.jpg",25
 314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",NA,570000,641429,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000891723_5-6_03.jpg",25
 314,"C. Metu","Metu","COT",12,"Dreamland Gran Canaria",NA,570000,641429,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000891723_5-6_03.jpg",25
-140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",0,3e+05,620741,NA,30,NA,NA,30,29,34.8,2001,0,29,29,"8/10",-2,"2/7",-5,"7/8",-1,0,0,5,5,1,1,1,-1,0,0,0,0,4,-4,7,7,"0000826449_5-6_03.jpg",2
+140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",NA,3e+05,620741,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826449_5-6_03.jpg",2
 140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",620741,3e+05,620741,NA,29,NA,NA,29,6,0,1211,0,6,6,"1/2",-1,"0/1",-1,"4/4",0,2,2,0,0,0,0,0,0,0,0,0,0,3,-3,3,3,"0000826449_5-6_03.jpg",2
 140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",633077,3e+05,620741,NA,28,NA,NA,28,30,36,1315,0,25,25,"3/6",-3,"2/3",-1,"13/13",0,1,1,3,3,1,1,1,-1,1,1,0,0,4,-4,8,8,"0000826449_5-6_03.jpg",2
 140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",586400,3e+05,620741,NA,27,NA,NA,27,3,0,1347,0,6,6,"1/2",-1,"0/3",-3,"4/4",0,0,0,1,1,1,1,0,0,0,0,0,0,3,-3,2,2,"0000826449_5-6_03.jpg",2
@@ -179,7 +179,7 @@
 140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",249263,3e+05,620741,NA,3,NA,NA,3,22,26.4,1421,0,19,19,"6/8",-2,"0/2",-2,"7/7",0,2,2,1,1,1,1,2,-2,2,2,0,0,2,-2,5,5,"0000826449_5-6_03.jpg",2
 140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",216750,3e+05,620741,NA,2,NA,NA,2,2,0,1106,0,7,7,"2/3",-1,"0/3",-3,"3/4",-1,1,1,0,0,0,0,1,-1,1,1,0,0,3,-3,2,2,"0000826449_5-6_03.jpg",2
 140,"I. Wong","Wong","EXT",12,"Dreamland Gran Canaria",255000,3e+05,620741,NA,1,NA,NA,1,5,0,907,0,9,9,"3/4",-1,"0/1",-1,"3/3",0,0,0,2,2,0,0,3,-3,0,0,0,0,3,-3,2,2,"0000826449_5-6_03.jpg",2
-223,"T. Pérez","Tyson","JFL",18,"Unicaja",0,490000,608421,NA,30,NA,NA,30,16,0,1690,0,17,17,"5/8",-3,"2/3",-1,"1/2",-1,4,4,1,1,2,2,1,-1,0,0,1,-1,3,-3,2,2,"0000827158_5-6_03.jpg",0
+223,"T. Pérez","Tyson","JFL",18,"Unicaja",NA,490000,608421,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827158_5-6_03.jpg",0
 223,"T. Pérez","Tyson","JFL",18,"Unicaja",NA,490000,608421,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827158_5-6_03.jpg",0
 223,"T. Pérez","Tyson","JFL",18,"Unicaja",608421,490000,608421,NA,28,NA,NA,28,15,18,822,0,12,12,"2/4",-2,"1/2",-1,"5/6",-1,5,5,1,1,1,1,1,-1,0,0,0,0,2,-2,3,3,"0000827158_5-6_03.jpg",0
 223,"T. Pérez","Tyson","JFL",18,"Unicaja",592222,490000,608421,NA,27,NA,NA,27,13,0,1228,0,11,11,"4/7",-3,"1/3",-2,"0/0",0,7,7,1,1,2,2,0,0,0,0,0,0,3,-3,0,0,"0000827158_5-6_03.jpg",0
@@ -209,7 +209,7 @@
 223,"T. Pérez","Tyson","JFL",18,"Unicaja",550821,490000,608421,NA,3,NA,NA,3,15,0,754,0,9,9,"3/4",-1,"0/1",-1,"3/4",-1,6,6,0,0,1,1,0,0,0,0,0,0,0,0,2,2,"0000827158_5-6_03.jpg",0
 223,"T. Pérez","Tyson","JFL",18,"Unicaja",478975,490000,608421,NA,2,NA,NA,2,11,13.2,1299,0,7,7,"0/1",-1,"1/2",-1,"4/4",0,4,4,0,0,1,1,0,0,0,0,0,0,1,-1,2,2,"0000827158_5-6_03.jpg",0
 223,"T. Pérez","Tyson","JFL",18,"Unicaja",416500,490000,608421,NA,1,NA,NA,1,5,6,744,0,6,6,"2/3",-1,"0/2",-2,"2/2",0,3,3,0,0,0,0,0,0,0,0,0,0,2,-2,1,1,"0000827158_5-6_03.jpg",0
-225,"A. Díaz","Díaz","JFL",18,"Unicaja",0,390000,537600,NA,30,NA,NA,30,22,0,1760,0,15,15,"3/3",0,"2/3",-1,"3/5",-2,2,2,6,6,3,3,2,-2,0,0,0,0,2,-2,3,3,"0000826722_5-6_03.jpg",9
+225,"A. Díaz","Díaz","JFL",18,"Unicaja",NA,390000,537600,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826722_5-6_03.jpg",9
 225,"A. Díaz","Díaz","JFL",18,"Unicaja",NA,390000,537600,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826722_5-6_03.jpg",9
 225,"A. Díaz","Díaz","JFL",18,"Unicaja",537600,390000,537600,NA,28,NA,NA,28,12,14.4,1176,0,7,7,"2/3",-1,"1/2",-1,"0/0",0,2,2,4,4,1,1,2,-2,1,1,0,0,2,-2,3,3,"0000826722_5-6_03.jpg",9
 225,"A. Díaz","Díaz","JFL",18,"Unicaja",530000,390000,537600,NA,27,NA,NA,27,2,0,1092,0,9,9,"0/3",-3,"3/4",-1,"0/0",0,0,0,0,0,1,1,0,0,0,0,0,0,5,-5,1,1,"0000826722_5-6_03.jpg",9
@@ -239,7 +239,7 @@
 225,"A. Díaz","Díaz","JFL",18,"Unicaja",556667,390000,537600,NA,3,NA,NA,3,7,0,1117,0,2,2,"0/1",-1,"0/1",-1,"2/2",0,2,2,2,2,2,2,1,-1,0,0,0,0,0,0,2,2,"0000826722_5-6_03.jpg",9
 225,"A. Díaz","Díaz","JFL",18,"Unicaja",515775,390000,537600,NA,2,NA,NA,2,12,14.4,1020,0,9,9,"0/0",0,"2/4",-2,"3/3",0,3,3,2,2,0,0,1,-1,0,0,0,0,1,-1,2,2,"0000826722_5-6_03.jpg",9
 225,"A. Díaz","Díaz","JFL",18,"Unicaja",448500,390000,537600,NA,1,NA,NA,1,10,12,1058,0,6,6,"1/1",0,"1/1",0,"1/2",-1,1,1,2,2,0,0,1,-1,0,0,0,0,0,0,3,3,"0000826722_5-6_03.jpg",9
-143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",0,520000,530400,NA,30,NA,NA,30,7,8.4,1183,0,7,7,"3/4",-1,"0/0",0,"1/2",-1,5,5,0,0,0,0,1,-1,1,1,0,0,5,-5,2,2,"0000826559_5-6_03.jpg",18
+143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",NA,520000,530400,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826559_5-6_03.jpg",18
 143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",530400,520000,530400,NA,29,NA,NA,29,10,0,1133,0,5,5,"1/2",-1,"0/2",-2,"3/4",-1,5,5,2,2,0,0,0,0,2,2,0,0,2,-2,2,2,"0000826559_5-6_03.jpg",18
 143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",531667,520000,530400,NA,28,NA,NA,28,3,3.6,907,0,2,2,"1/2",-1,"0/1",-1,"0/0",0,4,4,0,0,1,1,1,-1,0,0,0,0,2,-2,1,1,"0000826559_5-6_03.jpg",18
 143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",546957,520000,530400,NA,27,NA,NA,27,10,0,1401,0,8,8,"4/6",-2,"0/2",-2,"0/1",-1,6,6,0,0,0,0,0,0,2,2,0,0,2,-2,1,1,"0000826559_5-6_03.jpg",18
@@ -269,7 +269,7 @@
 143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",432055,520000,530400,NA,3,NA,NA,3,17,20.4,1536,0,10,10,"4/6",-2,"0/2",-2,"2/4",-2,9,9,2,2,1,1,1,-1,1,1,0,0,2,-2,3,3,"0000826559_5-6_03.jpg",18
 143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",375700,520000,530400,NA,2,NA,NA,2,17,0,1811,0,14,14,"4/7",-3,"1/3",-2,"3/6",-3,7,7,3,3,0,0,1,-1,0,0,0,0,2,-2,4,4,"0000826559_5-6_03.jpg",18
 143,"M. Tobey","Tobey","EUR",12,"Dreamland Gran Canaria",442000,520000,530400,NA,1,NA,NA,1,-2,0,1545,0,0,0,"0/1",-1,"0/2",-2,"0/0",0,4,4,0,0,0,0,2,-2,1,1,0,0,2,-2,0,0,"0000826559_5-6_03.jpg",18
-141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",0,310000,524815,NA,30,NA,NA,30,27,32.4,2023,0,24,24,"6/7",-1,"4/7",-3,"0/0",0,7,7,2,2,0,0,0,0,1,1,0,0,5,-5,2,2,"0000826661_5-6_03.jpg",13
+141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",NA,310000,524815,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826661_5-6_03.jpg",13
 141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",524815,310000,524815,NA,29,NA,NA,29,4,0,1236,0,4,4,"2/4",-2,"0/3",-3,"0/0",0,6,6,1,1,0,0,0,0,1,1,0,0,3,-3,0,0,"0000826661_5-6_03.jpg",13
 141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",537308,310000,524815,NA,28,NA,NA,28,14,16.8,1249,0,12,12,"2/3",-1,"2/5",-3,"2/2",0,6,6,2,2,1,1,1,-1,0,0,0,0,4,-4,2,2,"0000826661_5-6_03.jpg",13
 141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",525200,310000,524815,NA,27,NA,NA,27,8,0,1198,0,6,6,"2/2",0,"0/2",-2,"2/2",0,7,7,2,2,0,0,1,-1,0,0,0,0,4,-4,0,0,"0000826661_5-6_03.jpg",13
@@ -299,7 +299,7 @@
 141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",431250,310000,524815,NA,3,NA,NA,3,12,14.4,1030,0,11,11,"1/2",-1,"3/4",-1,"0/0",0,2,2,2,2,0,0,1,-1,0,0,0,0,1,-1,1,1,"0000826661_5-6_03.jpg",13
 141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",375000,310000,524815,NA,2,NA,NA,2,-1,0,846,0,0,0,"0/2",-2,"0/0",0,"0/0",0,3,3,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,"0000826661_5-6_03.jpg",13
 141,"P. Pelos","Pelos","EUR",12,"Dreamland Gran Canaria",356500,310000,524815,NA,1,NA,NA,1,16,0,1151,0,12,12,"4/5",-1,"1/1",0,"1/2",-1,3,3,0,0,2,2,1,-1,1,1,0,0,1,-1,2,2,"0000826661_5-6_03.jpg",13
-221,"J. Webb","Webb","EXT",18,"Unicaja",0,460000,522800,NA,30,NA,NA,30,11,0,1762,0,10,10,"2/3",-1,"2/5",-3,"0/0",0,5,5,0,0,1,1,1,-1,0,0,0,0,0,0,0,0,"0000826896_5-6_03.jpg",3
+221,"J. Webb","Webb","EXT",18,"Unicaja",NA,460000,522800,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826896_5-6_03.jpg",3
 221,"J. Webb","Webb","EXT",18,"Unicaja",NA,460000,522800,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826896_5-6_03.jpg",3
 221,"J. Webb","Webb","EXT",18,"Unicaja",522800,460000,522800,NA,28,NA,NA,28,20,24,1432,0,17,17,"1/1",0,"4/5",-1,"3/5",-2,3,3,1,1,0,0,0,0,1,1,0,0,2,-2,3,3,"0000826896_5-6_03.jpg",3
 221,"J. Webb","Webb","EXT",18,"Unicaja",494583,460000,522800,NA,27,NA,NA,27,10,0,1734,0,11,11,"1/1",0,"1/4",-3,"6/8",-2,2,2,0,0,1,1,4,-4,2,2,0,0,1,-1,4,4,"0000826896_5-6_03.jpg",3
@@ -329,7 +329,7 @@
 221,"J. Webb","Webb","EXT",18,"Unicaja",357000,460000,522800,NA,3,NA,NA,3,4,0,1207,0,8,8,"4/5",-1,"0/3",-3,"0/0",0,3,3,0,0,1,1,1,-1,0,0,0,0,3,-3,0,0,"0000826896_5-6_03.jpg",3
 221,"J. Webb","Webb","EXT",18,"Unicaja",420000,460000,522800,NA,2,NA,NA,2,7,8.4,1401,0,9,9,"3/3",0,"1/4",-3,"0/0",0,4,4,1,1,0,0,2,-2,0,0,0,0,3,-3,1,1,"0000826896_5-6_03.jpg",3
 221,"J. Webb","Webb","EXT",18,"Unicaja",NA,460000,522800,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826896_5-6_03.jpg",3
-294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",0,330000,413750,NA,30,NA,NA,30,6,0,809,0,5,5,"1/1",0,"0/3",-3,"3/5",-2,2,2,1,1,0,0,1,-1,0,0,0,0,1,-1,5,5,"0000880934_5-6_03.jpg",11
+294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",NA,330000,413750,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000880934_5-6_03.jpg",11
 294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",NA,330000,413750,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000880934_5-6_03.jpg",11
 294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",413750,330000,413750,NA,28,NA,NA,28,8,9.6,1306,0,8,8,"1/2",-1,"1/3",-2,"3/3",0,1,1,2,2,0,0,0,0,0,0,0,0,3,-3,3,3,"0000880934_5-6_03.jpg",11
 294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",404286,330000,413750,NA,27,NA,NA,27,4,0,734,0,4,4,"2/2",0,"0/1",-1,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"0000880934_5-6_03.jpg",11
@@ -359,7 +359,7 @@
 294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",NA,330000,413750,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000880934_5-6_03.jpg",11
 294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",NA,330000,413750,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000880934_5-6_03.jpg",11
 294,"J. Cobbs","Cobbs","EUR",18,"Unicaja",NA,330000,413750,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000880934_5-6_03.jpg",11
-139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",0,480000,411923,NA,30,NA,NA,30,2,2.4,254,0,2,2,"1/1",0,"0/0",0,"0/0",0,0,0,1,1,1,1,0,0,0,0,0,0,2,-2,0,0,"0000826488_5-6_03.jpg",23
+139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",NA,480000,411923,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826488_5-6_03.jpg",23
 139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",NA,480000,411923,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826488_5-6_03.jpg",23
 139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",411923,480000,411923,NA,28,NA,NA,28,1,1.2,577,0,3,3,"1/1",0,"0/0",0,"1/2",-1,1,1,0,0,0,0,1,-1,0,0,0,0,2,-2,1,1,"0000826488_5-6_03.jpg",23
 139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",426000,480000,411923,NA,27,NA,NA,27,3,0,275,0,2,2,"1/1",0,"0/0",0,"0/0",0,0,0,0,0,1,1,0,0,0,0,0,0,1,-1,1,1,"0000826488_5-6_03.jpg",23
@@ -389,7 +389,7 @@
 139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",361250,480000,411923,NA,3,NA,NA,3,1,1.2,463,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,1,1,0,0,0,0,2,2,0,0,2,-2,0,0,"0000826488_5-6_03.jpg",23
 139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",425000,480000,411923,NA,2,NA,NA,2,2,0,414,0,4,4,"2/3",-1,"0/0",0,"0/0",0,3,3,0,0,0,0,0,0,1,1,0,0,5,-5,0,0,"0000826488_5-6_03.jpg",23
 139,"K. Kuath","Kuath","EXT",12,"Dreamland Gran Canaria",5e+05,480000,411923,NA,1,NA,NA,1,10,0,855,0,9,9,"4/8",-4,"0/0",0,"1/1",0,2,2,0,0,0,0,0,0,2,2,1,-1,1,-1,3,3,"0000826488_5-6_03.jpg",23
-219,"E. Sulejmanovic","Sulejmanovic","EUR",18,"Unicaja",0,440000,398148,NA,30,NA,NA,30,12,0,1282,0,9,9,"3/3",0,"1/3",-2,"0/2",-2,5,5,3,3,1,1,1,-1,0,0,0,0,3,-3,2,2,"0000826860_5-6_03.jpg",19
+219,"E. Sulejmanovic","Sulejmanovic","EUR",18,"Unicaja",NA,440000,398148,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826860_5-6_03.jpg",19
 219,"E. Sulejmanovic","Sulejmanovic","EUR",18,"Unicaja",NA,440000,398148,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826860_5-6_03.jpg",19
 219,"E. Sulejmanovic","Sulejmanovic","EUR",18,"Unicaja",398148,440000,398148,NA,28,NA,NA,28,16,19.2,880,0,12,12,"3/5",-2,"2/4",-2,"0/0",0,8,8,1,1,0,0,0,0,1,1,0,0,2,-2,0,0,"0000826860_5-6_03.jpg",19
 219,"E. Sulejmanovic","Sulejmanovic","EUR",18,"Unicaja",376538,440000,398148,NA,27,NA,NA,27,8,0,1158,0,6,6,"1/4",-3,"1/1",0,"1/2",-1,5,5,0,0,1,1,0,0,0,0,0,0,1,-1,1,1,"0000826860_5-6_03.jpg",19
@@ -449,7 +449,7 @@
 214,"N. Djedovic","Djedovic","JFL",18,"Unicaja",264500,2e+05,385714,NA,3,NA,NA,3,5,0,880,0,11,11,"4/7",-3,"0/3",-3,"3/4",-1,2,2,0,0,0,0,2,-2,0,0,0,0,1,-1,2,2,"0000827062_5-6_03.jpg",14
 214,"N. Djedovic","Djedovic","JFL",18,"Unicaja",NA,2e+05,385714,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827062_5-6_03.jpg",14
 214,"N. Djedovic","Djedovic","JFL",18,"Unicaja",230000,2e+05,385714,NA,1,NA,NA,1,5,6,1211,0,11,11,"4/6",-2,"1/2",-1,"0/2",-2,1,1,0,0,1,1,2,-2,0,0,0,0,2,-2,1,1,"0000827062_5-6_03.jpg",14
-145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",0,4e+05,303600,NA,30,NA,NA,30,-2,0,1110,0,0,0,"0/0",0,"0/1",-1,"0/0",0,2,2,1,1,1,1,2,-2,0,0,0,0,3,-3,0,0,"0000826279_5-6_03.jpg",6
+145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",NA,4e+05,303600,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826279_5-6_03.jpg",6
 145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",NA,4e+05,303600,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826279_5-6_03.jpg",6
 145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",303600,4e+05,303600,NA,28,NA,NA,28,12,14.4,1812,0,5,5,"0/1",-1,"1/2",-1,"2/4",-2,2,2,6,6,0,0,1,-1,0,0,0,0,1,-1,5,5,"0000826279_5-6_03.jpg",6
 145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",286250,4e+05,303600,NA,27,NA,NA,27,-1,0,1631,0,3,3,"0/1",-1,"1/6",-5,"0/2",-2,0,0,3,3,1,1,0,0,0,0,0,0,3,-3,3,3,"0000826279_5-6_03.jpg",6
@@ -479,7 +479,7 @@
 145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",608350,4e+05,303600,NA,3,NA,NA,3,11,13.2,1465,0,10,10,"0/0",0,"3/4",-1,"1/2",-1,0,0,5,5,0,0,3,-3,0,0,0,0,1,-1,2,2,"0000826279_5-6_03.jpg",6
 145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",529000,4e+05,303600,NA,2,NA,NA,2,13,0,1780,0,4,4,"0/0",0,"1/4",-3,"1/2",-1,3,3,9,9,1,1,2,-2,0,0,0,0,2,-2,4,4,"0000826279_5-6_03.jpg",6
 145,"A. Albicy","Albicy","EUR",12,"Dreamland Gran Canaria",460000,4e+05,303600,NA,1,NA,NA,1,12,0,1391,0,9,9,"0/1",-1,"3/5",-2,"0/0",0,1,1,3,3,3,3,1,-1,0,0,0,0,1,-1,1,1,"0000826279_5-6_03.jpg",6
-213,"T. Kalinoski","Kalinoski","EUR",18,"Unicaja",0,230000,306800,NA,30,NA,NA,30,0,0,1003,0,0,0,"0/0",0,"0/2",-2,"0/0",0,5,5,1,1,1,1,2,-2,0,0,0,0,3,-3,0,0,"0000827134_5-6_03.jpg",4
+213,"T. Kalinoski","Kalinoski","EUR",18,"Unicaja",NA,230000,306800,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827134_5-6_03.jpg",4
 213,"T. Kalinoski","Kalinoski","EUR",18,"Unicaja",NA,230000,306800,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827134_5-6_03.jpg",4
 213,"T. Kalinoski","Kalinoski","EUR",18,"Unicaja",306800,230000,306800,NA,28,NA,NA,28,13,15.6,1080,0,6,6,"0/0",0,"2/4",-2,"0/0",0,5,5,4,4,2,2,1,-1,0,0,0,0,3,-3,2,2,"0000827134_5-6_03.jpg",4
 213,"T. Kalinoski","Kalinoski","EUR",18,"Unicaja",NA,230000,306800,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827134_5-6_03.jpg",4
@@ -569,7 +569,7 @@
 218,"K. Tillie","Tillie","EUR",18,"Unicaja",456263,3e+05,294286,NA,3,NA,NA,3,7,0,992,0,6,6,"0/1",-1,"2/3",-1,"0/0",0,2,2,1,1,0,0,0,0,1,1,0,0,2,-2,1,1,"0000827009_5-6_03.jpg",33
 218,"K. Tillie","Tillie","EUR",18,"Unicaja",396750,3e+05,294286,NA,2,NA,NA,2,12,14.4,839,0,11,11,"1/3",-2,"3/4",-1,"0/0",0,2,2,1,1,2,2,0,0,1,1,0,0,2,-2,0,0,"0000827009_5-6_03.jpg",33
 218,"K. Tillie","Tillie","EUR",18,"Unicaja",345000,3e+05,294286,NA,1,NA,NA,1,10,12,889,0,2,2,"1/2",-1,"0/2",-2,"0/0",0,7,7,4,4,1,1,1,-1,0,0,0,0,0,0,0,0,"0000827009_5-6_03.jpg",33
-285,"K. Robertson","Robertson","COT",12,"Dreamland Gran Canaria",0,490000,279167,NA,30,NA,NA,30,-5,0,955,0,5,5,"1/3",-2,"1/7",-6,"0/0",0,0,0,1,1,0,0,3,-3,0,0,0,0,1,-1,1,1,"0000877366_5-6_03.jpg",30
+285,"K. Robertson","Robertson","COT",12,"Dreamland Gran Canaria",NA,490000,279167,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000877366_5-6_03.jpg",30
 285,"K. Robertson","Robertson","COT",12,"Dreamland Gran Canaria",279167,490000,279167,NA,29,NA,NA,29,11,0,1465,0,14,14,"1/4",-3,"4/5",-1,"0/0",0,1,1,1,1,0,0,1,-1,0,0,0,0,1,-1,1,1,"0000877366_5-6_03.jpg",30
 285,"K. Robertson","Robertson","COT",12,"Dreamland Gran Canaria",254545,490000,279167,NA,28,NA,NA,28,1,1.2,1176,0,6,6,"0/3",-3,"2/4",-2,"0/0",0,2,2,0,0,0,0,2,-2,0,0,0,0,2,-2,2,2,"0000877366_5-6_03.jpg",30
 285,"K. Robertson","Robertson","COT",12,"Dreamland Gran Canaria",274000,490000,279167,NA,27,NA,NA,27,0,0,1647,0,6,6,"0/2",-2,"2/6",-4,"0/0",0,2,2,2,2,0,0,2,-2,0,0,1,-1,2,-2,1,1,"0000877366_5-6_03.jpg",30
@@ -629,7 +629,7 @@
 258,"A. Rubit","Rubit","EXT",18,"Unicaja",NA,4e+05,275000,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000860044_5-6_03.jpg",21
 258,"A. Rubit","Rubit","EXT",18,"Unicaja",NA,4e+05,275000,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000860044_5-6_03.jpg",21
 258,"A. Rubit","Rubit","EXT",18,"Unicaja",NA,4e+05,275000,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000860044_5-6_03.jpg",21
-220,"D. Kravish","Kravish","EUR",18,"Unicaja",0,310000,274189,NA,30,NA,NA,30,1,0,983,0,2,2,"1/6",-5,"0/1",-1,"0/0",0,3,3,3,3,0,0,1,-1,0,0,0,0,1,-1,1,1,"0000826829_5-6_03.jpg",45
+220,"D. Kravish","Kravish","EUR",18,"Unicaja",NA,310000,274189,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826829_5-6_03.jpg",45
 220,"D. Kravish","Kravish","EUR",18,"Unicaja",NA,310000,274189,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826829_5-6_03.jpg",45
 220,"D. Kravish","Kravish","EUR",18,"Unicaja",274189,310000,274189,NA,28,NA,NA,28,3,3.6,873,0,4,4,"1/4",-3,"0/2",-2,"2/2",0,2,2,2,2,0,0,0,0,1,1,0,0,2,-2,1,1,"0000826829_5-6_03.jpg",45
 220,"D. Kravish","Kravish","EUR",18,"Unicaja",NA,310000,274189,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826829_5-6_03.jpg",45
@@ -659,7 +659,7 @@
 220,"D. Kravish","Kravish","EUR",18,"Unicaja",379500,310000,274189,NA,3,NA,NA,3,10,0,1420,0,11,11,"4/5",-1,"1/2",-1,"0/0",0,6,6,1,1,0,0,2,-2,0,0,0,0,4,-4,0,0,"0000826829_5-6_03.jpg",45
 220,"D. Kravish","Kravish","EUR",18,"Unicaja",330000,310000,274189,NA,2,NA,NA,2,3,3.6,577,0,6,6,"3/6",-3,"0/0",0,"0/0",0,1,1,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,"0000826829_5-6_03.jpg",45
 220,"D. Kravish","Kravish","EUR",18,"Unicaja",356500,310000,274189,NA,1,NA,NA,1,8,9.6,1171,0,7,7,"2/5",-3,"1/1",0,"0/0",0,5,5,4,4,0,0,2,-2,0,0,0,0,3,-3,0,0,"0000826829_5-6_03.jpg",45
-222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",0,150000,235556,NA,30,NA,NA,30,5,0,583,0,3,3,"0/0",0,"0/1",-1,"3/4",-1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,"0000826937_5-6_03.jpg",7
+222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",NA,150000,235556,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826937_5-6_03.jpg",7
 222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",NA,150000,235556,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826937_5-6_03.jpg",7
 222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",235556,150000,235556,NA,28,NA,NA,28,8,9.6,1344,0,3,3,"0/1",-1,"1/5",-4,"0/0",0,6,6,2,2,3,3,0,0,0,0,0,0,1,-1,0,0,"0000826937_5-6_03.jpg",7
 222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",226154,150000,235556,NA,27,NA,NA,27,-1,0,249,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,"0000826937_5-6_03.jpg",7
@@ -689,7 +689,7 @@
 222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",228131,150000,235556,NA,3,NA,NA,3,5,0,755,0,6,6,"1/1",0,"1/3",-2,"1/2",-1,3,3,0,0,0,0,0,0,0,0,0,0,2,-2,1,1,"0000826937_5-6_03.jpg",7
 222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",198375,150000,235556,NA,2,NA,NA,2,3,3.6,727,0,2,2,"0/0",0,"0/1",-1,"2/2",0,0,0,1,1,0,0,0,0,0,0,0,0,1,-1,2,2,"0000826937_5-6_03.jpg",7
 222,"J. Barreiro","Barreiro","JFL",18,"Unicaja",172500,150000,235556,NA,1,NA,NA,1,6,7.2,816,0,4,4,"1/1",0,"0/1",-1,"2/3",-1,1,1,0,0,1,1,0,0,0,0,0,0,1,-1,3,3,"0000826937_5-6_03.jpg",7
-147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",0,2e+05,204444,NA,30,NA,NA,30,-1,0,214,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,1,-1,0,0,0,0,1,-1,1,1,"0000826684_5-6_03.jpg",5
+147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",NA,2e+05,204444,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826684_5-6_03.jpg",5
 147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",204444,2e+05,204444,NA,29,NA,NA,29,3,0,336,0,3,3,"0/0",0,"1/1",0,"0/0",0,0,0,1,1,0,0,0,0,0,0,0,0,1,-1,0,0,"0000826684_5-6_03.jpg",5
 147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",206538,2e+05,204444,NA,28,NA,NA,28,1,1.2,115,0,0,0,"0/1",-1,"0/0",0,"0/0",0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"0000826684_5-6_03.jpg",5
 147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",212400,2e+05,204444,NA,27,NA,NA,27,0,0,65,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826684_5-6_03.jpg",5
@@ -719,7 +719,7 @@
 147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",212500,2e+05,204444,NA,3,NA,NA,3,-4,0,889,0,2,2,"1/4",-3,"0/0",0,"0/2",-2,1,1,1,1,0,0,1,-1,0,0,0,0,4,-4,2,2,"0000826684_5-6_03.jpg",5
 147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",250000,2e+05,204444,NA,2,NA,NA,2,3,0,620,0,5,5,"1/2",-1,"1/2",-1,"0/0",0,2,2,0,0,0,0,1,-1,0,0,1,-1,0,0,0,0,"0000826684_5-6_03.jpg",5
 147,"Z. Samar","Samar","JFL",12,"Dreamland Gran Canaria",230000,2e+05,204444,NA,1,NA,NA,1,7,0,1009,0,10,10,"2/3",-1,"1/3",-2,"3/4",-1,2,2,2,2,0,0,3,-3,0,0,1,-1,2,-2,3,3,"0000826684_5-6_03.jpg",5
-149,"C. Alocén","Alocén","JFL",12,"Dreamland Gran Canaria",0,340000,201773,NA,30,NA,NA,30,15,18,1527,0,8,8,"2/2",0,"0/0",0,"4/4",0,5,5,3,3,0,0,3,-3,0,0,0,0,1,-1,3,3,"0000826339_5-6_03.jpg",12
+149,"C. Alocén","Alocén","JFL",12,"Dreamland Gran Canaria",NA,340000,201773,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826339_5-6_03.jpg",12
 149,"C. Alocén","Alocén","JFL",12,"Dreamland Gran Canaria",201773,340000,201773,NA,29,NA,NA,29,11,0,1129,0,8,8,"1/2",-1,"2/2",0,"0/2",-2,3,3,2,2,0,0,1,-1,0,0,0,0,2,-2,4,4,"0000826339_5-6_03.jpg",12
 149,"C. Alocén","Alocén","JFL",12,"Dreamland Gran Canaria",175455,340000,201773,NA,28,NA,NA,28,2,2.4,588,0,4,4,"1/3",-2,"0/1",-1,"2/2",0,2,2,0,0,0,0,1,-1,0,0,0,0,1,-1,1,1,"0000826339_5-6_03.jpg",12
 149,"C. Alocén","Alocén","JFL",12,"Dreamland Gran Canaria",181000,340000,201773,NA,27,NA,NA,27,3,0,461,0,3,3,"1/1",0,"0/1",-1,"1/2",-1,3,3,0,0,0,0,2,-2,0,0,1,-1,0,0,2,2,"0000826339_5-6_03.jpg",12
@@ -779,7 +779,7 @@
 261,"M. Miteo","Miteo","COT",12,"Dreamland Gran Canaria",NA,110000,145475,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000851603_5-6_03.jpg",27
 261,"M. Miteo","Miteo","COT",12,"Dreamland Gran Canaria",NA,110000,145475,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000851603_5-6_03.jpg",27
 261,"M. Miteo","Miteo","COT",12,"Dreamland Gran Canaria",NA,110000,145475,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000851603_5-6_03.jpg",27
-265,"C. Audige","Audige","COT",18,"Unicaja",0,275000,168421,NA,30,NA,NA,30,0,0,177,0,0,0,"0/0",0,"0/0",0,"0/0",0,1,1,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,"0000861869_5-6_03.jpg",1
+265,"C. Audige","Audige","COT",18,"Unicaja",NA,275000,168421,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000861869_5-6_03.jpg",1
 265,"C. Audige","Audige","COT",18,"Unicaja",NA,275000,168421,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000861869_5-6_03.jpg",1
 265,"C. Audige","Audige","COT",18,"Unicaja",168421,275000,168421,NA,28,NA,NA,28,-3,0,221,0,0,0,"0/0",0,"0/1",-1,"0/0",0,0,0,0,0,0,0,0,0,0,0,1,-1,1,-1,0,0,"0000861869_5-6_03.jpg",1
 265,"C. Audige","Audige","COT",18,"Unicaja",186111,275000,168421,NA,27,NA,NA,27,3,0,1118,0,2,2,"1/2",-1,"0/2",-2,"0/0",0,3,3,2,2,2,2,1,-1,0,0,0,0,2,-2,0,0,"0000861869_5-6_03.jpg",1
@@ -809,7 +809,7 @@
 265,"C. Audige","Audige","COT",18,"Unicaja",NA,275000,168421,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000861869_5-6_03.jpg",1
 265,"C. Audige","Audige","COT",18,"Unicaja",NA,275000,168421,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000861869_5-6_03.jpg",1
 265,"C. Audige","Audige","COT",18,"Unicaja",NA,275000,168421,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000861869_5-6_03.jpg",1
-148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",0,180000,113684,NA,30,NA,NA,30,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826396_5-6_03.jpg",4
+148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",NA,180000,113684,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826396_5-6_03.jpg",4
 148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",113684,180000,113684,NA,29,NA,NA,29,1,0,394,0,3,3,"0/2",-2,"1/1",0,"0/0",0,1,1,0,0,0,0,1,-1,0,0,0,0,0,0,0,0,"0000826396_5-6_03.jpg",4
 148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",117222,180000,113684,NA,28,NA,NA,28,2,2.4,233,0,2,2,"0/0",0,"0/1",-1,"2/2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"0000826396_5-6_03.jpg",4
 148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",0,180000,113684,NA,27,NA,NA,27,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826396_5-6_03.jpg",4
@@ -839,7 +839,7 @@
 148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",207000,180000,113684,NA,3,NA,NA,3,5,6,372,0,6,6,"0/0",0,"2/3",-1,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826396_5-6_03.jpg",4
 148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",0,180000,113684,NA,2,NA,NA,2,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826396_5-6_03.jpg",4
 148,"E. Vila","Vila","JFL",12,"Dreamland Gran Canaria",0,180000,113684,NA,1,NA,NA,1,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826396_5-6_03.jpg",4
-277,"L. Maniema","Maniema","JFL",12,"Dreamland Gran Canaria",0,120000,78571,NA,30,NA,NA,30,0,0,5,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826533_5-6_03.jpg",1
+277,"L. Maniema","Maniema","JFL",12,"Dreamland Gran Canaria",NA,120000,78571,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000826533_5-6_03.jpg",1
 277,"L. Maniema","Maniema","JFL",12,"Dreamland Gran Canaria",78571,120000,78571,NA,29,NA,NA,29,3,0,99,0,2,2,"0/0",0,"0/0",0,"2/2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"0000826533_5-6_03.jpg",1
 277,"L. Maniema","Maniema","JFL",12,"Dreamland Gran Canaria",82843,120000,78571,NA,28,NA,NA,28,0,0,127,0,1,1,"0/0",0,"0/0",0,"1/2",-1,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,1,1,"0000826533_5-6_03.jpg",1
 277,"L. Maniema","Maniema","JFL",12,"Dreamland Gran Canaria",0,120000,78571,NA,27,NA,NA,27,0,0,0,0,0,0,"0/0",0,"0/0",0,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000826533_5-6_03.jpg",1
@@ -5251,35 +5251,35 @@
 65,"M. Steinbergs","Steinbergs","EUR",6,"BAXI Manresa",246667,230000,269310,NA,3,NA,NA,3,3,0,1311,0,3,3,"0/0",0,"1/3",-2,"0/0",0,2,2,0,0,0,0,0,0,0,0,0,0,1,-1,1,1,"0000827523_5-6_03.jpg",12
 65,"M. Steinbergs","Steinbergs","EUR",6,"BAXI Manresa",224825,230000,269310,NA,2,NA,NA,2,9,10.8,1356,0,8,8,"1/2",-1,"2/5",-3,"0/0",0,3,3,3,3,0,0,0,0,1,1,0,0,2,-2,0,0,"0000827523_5-6_03.jpg",12
 65,"M. Steinbergs","Steinbergs","EUR",6,"BAXI Manresa",195500,230000,269310,NA,1,NA,NA,1,1,0,847,0,3,3,"0/1",-1,"1/2",-1,"0/0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0000827523_5-6_03.jpg",12
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",228000,380000,228000,NA,29,NA,NA,29,4,4.8,1028,0,3,3,"0/0",0,"1/2",-1,"0/0",0,1,1,4,4,2,2,3,-3,1,1,1,-1,2,-2,0,0,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",225000,380000,228000,NA,28,NA,NA,28,7,0,1207,0,8,8,"3/3",0,"0/1",-1,"2/4",-2,3,3,1,1,0,0,2,-2,0,0,0,0,4,-4,4,4,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",233367,380000,228000,NA,27,NA,NA,27,3,3.6,951,0,6,6,"2/4",-2,"0/1",-1,"2/2",0,3,3,2,2,0,0,2,-2,0,0,0,0,4,-4,1,1,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",274550,380000,228000,NA,26,NA,NA,26,2,2.4,1392,0,9,9,"1/4",-3,"1/7",-6,"4/4",0,1,1,0,0,0,0,1,-1,0,0,0,0,2,-2,4,4,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",323000,380000,228000,NA,25,NA,NA,25,5,0,1371,0,11,11,"2/5",-3,"0/5",-5,"7/8",-1,4,4,0,0,0,0,2,-2,1,1,1,-1,3,-3,4,4,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
-321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"defaultBody.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",228000,380000,228000,NA,29,NA,NA,29,4,4.8,1028,0,3,3,"0/0",0,"1/2",-1,"0/0",0,1,1,4,4,2,2,3,-3,1,1,1,-1,2,-2,0,0,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",225000,380000,228000,NA,28,NA,NA,28,7,0,1207,0,8,8,"3/3",0,"0/1",-1,"2/4",-2,3,3,1,1,0,0,2,-2,0,0,0,0,4,-4,4,4,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",233367,380000,228000,NA,27,NA,NA,27,3,3.6,951,0,6,6,"2/4",-2,"0/1",-1,"2/2",0,3,3,2,2,0,0,2,-2,0,0,0,0,4,-4,1,1,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",274550,380000,228000,NA,26,NA,NA,26,2,2.4,1392,0,9,9,"1/4",-3,"1/7",-6,"4/4",0,1,1,0,0,0,0,1,-1,0,0,0,0,2,-2,4,4,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",323000,380000,228000,NA,25,NA,NA,25,5,0,1371,0,11,11,"2/5",-3,"0/5",-5,"7/8",-1,4,4,0,0,0,0,2,-2,1,1,1,-1,3,-3,4,4,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
+321,"D. Duke Jr","Duke Jr","EXT",6,"BAXI Manresa",NA,380000,228000,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000913700_5-6_03.jpg",3
 216,"X. Castañeda","Castañeda","EUR",17,"MoraBanc Andorra",NA,480000,194448,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0000827194_5-6_03.jpg",1
 216,"X. Castañeda","Castañeda","EUR",17,"MoraBanc Andorra",194448,480000,194448,NA,28,NA,NA,28,6,0,1238,0,8,8,"1/4",-3,"0/3",-3,"6/6",0,2,2,0,0,0,0,0,0,0,0,0,0,2,-2,4,4,"0000827194_5-6_03.jpg",1
 216,"X. Castañeda","Castañeda","EUR",17,"MoraBanc Andorra",169085,480000,194448,NA,27,NA,NA,27,7,0,914,0,8,8,"1/3",-2,"2/4",-2,"0/0",0,1,1,2,2,0,0,1,-1,0,0,0,0,2,-2,3,3,"0000827194_5-6_03.jpg",1
