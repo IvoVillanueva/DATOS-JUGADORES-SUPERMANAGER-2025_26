@@ -74,7 +74,7 @@ players_superM <- function(id) {
       number    = superManager_player$number,
       idPlayer  = superManager_player$idPlayer
     ) %>%
-    filter(numberJourney != max(numberJourney)) %>%
+    #filter(numberJourney != max(numberJourney)) %>%
     {
       if ("playerPrice" %in% colnames(.)) {
         select(., idPlayer, shortName, nick, license, idTeam, nameTeam,
